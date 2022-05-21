@@ -6,6 +6,11 @@ The layout takes a lot from many others. Mainly [Soul](https://kennetchaz.github
 
 ![Sarten Layout](assets/sarten_layout.png)]
 
+### If you want to tinker with the layout, here you have both the KLE and the KLAnext JSON files
+
+- [Keyboard Layout Editor JSON file](/kle/sarten-layout.json)
+- [KLAnext JSON file](/klanext/sarten.en.ansi.json)
+
 ## Observations
 
 - It is assumed you are using the English International Layout on your OS of choice.
