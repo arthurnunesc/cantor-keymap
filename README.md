@@ -4,7 +4,7 @@ The Sarten Layout was developed to fit my personal use. Its design is heavily ce
 
 The layout takes a lot from many others. Mainly [Soul](https://kennetchaz.github.io/symmetric-typing/soul.html), [Niro](https://kennetchaz.github.io/symmetric-typing/niro.html), QGMLWY and [Miryoku](https://github.com/manna-harbour/miryoku). 
 
-![My Cantor Layout](assets/my_cantor_layout.png)]
+![Sarten Layout](assets/sarten_layout.png)]
 
 ## Observations
 
