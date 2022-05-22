@@ -4,7 +4,7 @@ The Sarten Layout is a 42-key split keyboard layout. Its design is heavily cente
 
 The layout takes a lot from many others. Mainly [Soul](https://kennetchaz.github.io/symmetric-typing/soul.html), [Niro](https://kennetchaz.github.io/symmetric-typing/niro.html), QGMLWY and [Miryoku](https://github.com/manna-harbour/miryoku).
 
-![Sarten Layout](assets/sarten_layout.png)
+![Sarten Layout](assets/sarten-layout.png)
 
 ### If you want to tinker with the layout, here you have both the KLE and the KLAnext JSON files
 

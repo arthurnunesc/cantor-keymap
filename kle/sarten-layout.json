@@ -1,6 +1,7 @@
 [
   {
-    "name": "Sarten Layout"
+    "name": "Sarten Layout",
+    "notes": "green keys = stayed on the same place\nyellow keys = swapped together\nblue keys = displaced by 1 key in distance\nred keys = switched hands\nrest = displaced by 2 or more keys in distance, but stayed in the same hand\n\nobservations: distances are measured from a matrix ansi layout"
   },
   [
     {
@@ -9,7 +10,8 @@
     },
     "g",
     {
-      "x": 6.5
+      "x": 6.5,
+      "c": "#e38888"
     },
     "f"
   ],
@@ -17,17 +19,17 @@
     {
       "y": -0.75,
       "x": 2,
-      "c": "#e38888"
+      "c": "#89e893"
     },
     "w",
     {
       "x": 1,
-      "c": "#cccccc"
+      "c": "#e38888"
     },
     "p",
     {
       "x": 4.5,
-      "c": "#e38888"
+      "c": "#89e893"
     },
     "u",
     {
@@ -39,11 +41,13 @@
   [
     {
       "y": -0.9199999999999999,
-      "x": 5
+      "x": 5,
+      "c": "#e38888"
     },
     "<\n,",
     {
-      "x": 2.5
+      "x": 2.5,
+      "c": "#cccccc"
     },
     ">\n."
   ],
@@ -53,12 +57,12 @@
     },
     "esc",
     {
-      "c": "#e38888"
+      "c": "#89e893"
     },
     "q",
     {
       "x": 1,
-      "c": "#cccccc",
+      "c": "#81d6e3",
       "fa": [
         0,
         0,
@@ -78,7 +82,8 @@
     },
     "o\n\n\n\n\n\n\n\n\nshift",
     {
-      "x": 1
+      "x": 1,
+      "c": "#cccccc"
     },
     "~\n`",
     "pscr"
@@ -86,11 +91,13 @@
   [
     {
       "y": -0.75,
-      "x": 2
+      "x": 2,
+      "c": "#e0dd87"
     },
     "a\n\n\n\n\n\n\n\n\nalt",
     {
       "x": 1,
+      "c": "#81d6e3",
       "n": true
     },
     "t\n\n\n\n\n\n\n\n\nctrl",
@@ -100,7 +107,8 @@
     },
     "n\n\n\n\n\n\n\n\n\nctrl",
     {
-      "x": 1
+      "x": 1,
+      "c": "#e38888"
     },
     "e\n\n\n\n\n\n\n\n\nalt"
   ],
@@ -111,22 +119,28 @@
     },
     "l",
     {
-      "x": 2.5
+      "x": 2.5,
+      "c": "#81d6e3"
     },
     "m"
   ],
   [
     {
-      "y": -0.33000000000000007
+      "y": -0.33000000000000007,
+      "c": "#cccccc"
     },
     "tab",
+    {
+      "c": "#e0dd87"
+    },
     "s\n\n\n\n\n\n\n\n\nsuper",
     {
       "x": 1
     },
     "v",
     {
-      "x": 6.5
+      "x": 6.5,
+      "c": "#cccccc"
     },
     "y",
     {
@@ -139,20 +153,22 @@
     {
       "y": -0.75,
       "x": 2,
-      "c": "#e38888"
+      "c": "#89e893"
     },
     "x",
     {
       "x": 1,
-      "c": "#cccccc"
+      "c": "#e0dd87"
     },
     "c",
     {
-      "x": 4.5
+      "x": 4.5,
+      "c": "#e38888"
     },
     "d",
     {
-      "x": 1
+      "x": 1,
+      "c": "#cccccc"
     },
     "j"
   ],
@@ -160,22 +176,23 @@
     {
       "y": -0.9199999999999999,
       "x": 5,
-      "c": "#e38888"
+      "c": "#89e893"
     },
     "b",
     {
       "x": 2.5,
-      "c": "#cccccc"
+      "c": "#81d6e3"
     },
     "h"
   ],
   [
     {
-      "y": -0.33000000000000007
+      "y": -0.33000000000000007,
+      "c": "#cccccc"
     },
-    "shift",
+    "ctrl",
     {
-      "c": "#e38888"
+      "c": "#89e893"
     },
     "z",
     {

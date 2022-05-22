@@ -1,0 +1,7 @@
+green keys = stayed on the same place
+yellow keys = swapped together
+blue keys = displaced by 1 key in distance
+red keys = switched hands
+rest = displaced by 2 or more keys in distance, but stayed in the same hand
+
+observations: distances are measured from a matrix ansi layout
